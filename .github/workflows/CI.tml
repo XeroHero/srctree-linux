@@ -20,7 +20,7 @@ jobs:
       - name: release-npm-action
         uses: tobua/release-npm-action@v3.0.2
         with:
-          NPM_TOKEN: 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
+          NPM_TOKEN: ${{secrets.NPM_TOKEN}}
           GITHUB_TOKEN: ${{ github.token }}
       
       - name: Publish Github Release
