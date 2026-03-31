@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+yarn.lock
+package-lock.json
+
+# Build outputs
+dist/
+release/
+
+# Development
+.DS_Store
+.vscode/
+.idea/
+
+# Electron
+out/
+
+# OS files
+Thumbs.db
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+*~
