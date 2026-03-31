@@ -1,4 +1,4 @@
-# SourceTree Linux
+# SRCTree Linux
 
 A powerful Git GUI client for Linux, inspired by SourceTree for macOS/Windows.
 
